@@ -1,3 +1,4 @@
-# code-snippets
+# code-fronts
 
-like a code journal 
+so many fronts to keep track of! 
+code snippets, scripts, learnings
