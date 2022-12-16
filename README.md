@@ -1,2 +1,3 @@
-# nodejs-practice
-Learning Node.js 
+# code-snippets
+
+like a code journal 
